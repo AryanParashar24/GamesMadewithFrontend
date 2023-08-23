@@ -1,1 +1,2 @@
-Some games made with Frontend tools and Web Development
+All games being made by me would be presented here in this repository
+
